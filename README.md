@@ -1,5 +1,5 @@
 # 👋 Hi, I'm [ Aanchal Banga ]
-🎓 *BTech in Computer Science & Engineering*  
+🎓 *MSC in Information technology*  
 🚀 *Full Stack Developer* | 💻 *Open Source Enthusiast* | 🌐 *Web & Backend Wizard*
 
 Welcome to my GitHub profile! I'm passionate about building scalable, modern, and user-friendly web applications. I love working with cutting-edge technologies and solving real-world problems through code.
