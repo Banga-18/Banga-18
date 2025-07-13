@@ -44,9 +44,9 @@ Welcome to my GitHub profile! I'm passionate about building scalable, modern, an
 
 ## 📈 *GitHub Stats*
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi-jais-11&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Banga-18&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-jais-11&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aBanga-18&layout=compact&theme=radical)
 
 ---
 
@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable, modern, an
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jais-abhi/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhijais0110@gmail.com.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bangaaanchal180@gmail.com.com)
 
 ---
 
